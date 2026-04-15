@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional — remove this if you WANT to upload your CSV)
+# data/
+
+# Output images (optional — remove if you want to commit charts)
+outputs/
