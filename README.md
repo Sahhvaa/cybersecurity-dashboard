@@ -11,10 +11,10 @@ A data analytics project exploring global cybersecurity threats from 2015 to 202
 - **Coverage:** Attack types, target industries, financial losses, affected users
 
 ## 🔍 Project Phases
-- [x] Phase 1: Environment Setup & Data Sourcing
-- [ ] Phase 2: Data Cleaning
-- [ ] Phase 3: Exploratory Data Analysis
-- [ ] Phase 4: Data Visualization
+- Phase 1: Environment Setup & Data Sourcing
+- Phase 2: Data Cleaning
+- Phase 3: Exploratory Data Analysis
+- Phase 4: Data Visualization
 
 ## 🛠️ Tools Used
 Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
